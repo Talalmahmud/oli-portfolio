@@ -15,7 +15,7 @@ const page = () => {
           </p>
 
           <p className=" text-white text-[18px] font-semibold">
-            Senior Engineer (IT & ATM)
+            Web development & Graphic Design
           </p>
 
           <div className=" flex items-center gap-2">
